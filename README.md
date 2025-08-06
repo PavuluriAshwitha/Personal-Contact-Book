@@ -1,8 +1,8 @@
-##📇 Personal Contact Book
+## 📇 Personal Contact Book
 
 A Microsoft Access-based Contact Book project that stores and manages personal contact information such as names, phone numbers, emails, and addresses in a relational database format.
 
-📌 Features
+## 📌 Features
 Simple and clean interface using Microsoft Access Forms
 
 Stores personal details: Name, Phone, Email, Address
@@ -13,7 +13,7 @@ Uses relational table structure
 
 Designed for offline, personal use
 
-##🧰 Technologies Used
+## 🧰 Technologies Used
 Microsoft Access
 
 Tables for structured data
@@ -24,7 +24,7 @@ Queries for data retrieval
 
 Macros/VBA (if applicable) for automation
 
-##▶️ How to Use
+## ▶️ How to Use
 Open 📇 Personal Contact Book.accdb in Microsoft Access.
 
 Use the main form to:
